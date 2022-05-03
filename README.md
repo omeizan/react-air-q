@@ -6,7 +6,8 @@ using openweathermap api and react hooks
 <h2>SCREENSHOTS</h2>
 
 ![ScreenCapture](/src/assets/Screen%20Shot%202022-05-03%20at%204.37.00%20AM.png?raw=true)
-![ScreenCapture](/src/assets/Screen%20Shot%202022-05-03%20at%204.37.00%20AM.png?raw=true)
+![ScreenCapture](/src/assets/Screen%20Shot%202022-05-03%20at%204.41.04%20AM.png?raw=true)
+
 
 
 <h2>RESOURCES</h2>
