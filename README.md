@@ -15,3 +15,5 @@ using openweathermap api and react hooks
 AQI Ratings - https://en.wikipedia.org/wiki/Air_quality_index#CAQI<br>
 Air quality API - OpenWeatherMap
 </p>
+
+Demo: https://airqualityapp.netlify.app/
